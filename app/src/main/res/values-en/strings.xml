@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calcular_imc">calculate BMI</string>
+    <string name="introduce_tu_peso">Enter your weight</string>
+    <string name="introduce_la_altura">Enter your height</string>
+    <string name="desnutrido">UNNOTRATED</string>
+    <string name="ideal">IDEAL</string>
+    <string name="sobrepeso">OVERWEIGHT</string>
+    <string name="delgado">THIN</string>
+    <string name="obeso">OBESE</string>
+</resources>

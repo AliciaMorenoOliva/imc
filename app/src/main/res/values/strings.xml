@@ -1,0 +1,10 @@
+<resources>
+    <string name="calcular_imc">CalcularIMC</string>
+    <string name="introduce_tu_peso">INTRODUCE TU PESO</string>
+    <string name="introduce_la_altura">INTRODUCE TU ALTURA</string>
+    <string name="desnutrido">DESNUTRIDO</string>
+    <string name="ideal">IDEAL</string>
+    <string name="sobrepeso">SOBREPESO</string>
+    <string name="delgado">DELGADO</string>
+    <string name="obeso">OBESO</string>
+</resources>
